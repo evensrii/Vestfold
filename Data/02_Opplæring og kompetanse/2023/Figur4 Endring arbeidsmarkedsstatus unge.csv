@@ -1,0 +1,93 @@
+12427: Endring i arbeidsstyrkestatus. Bosatte personer 15 år og over, etter startår, prioritert arbeidsstyrkestatus i tidsserien, prioritert arbeidsstyrkestatus i startåret, statistikkvariabel, år, kjønn, alder i startåret, utdanningsnivå i startåret og innvandringskategori;;;
+;;;
+;;;Bosatte
+;;;2022
+;;;Begge kjønn
+;;;15-29 år
+;;;Utdanningsnivå i alt
+;2022;2021;I alt
+2021;Sysselsatte;Registrerte arbeidsledige;5681
+;;Mottakere av arbeidsavklaringspenger / uføretrygd;1906
+;;Andre;18027
+;Registrerte arbeidsledige;Registrerte arbeidsledige;1724
+;;Mottakere av arbeidsavklaringspenger / uføretrygd;89
+;;Andre;1549
+;Deltakere på arbeidsmarkedstiltak;Registrerte arbeidsledige;851
+;;Mottakere av arbeidsavklaringspenger / uføretrygd;2011
+;;Andre;1918
+;Under ordinær utdanning;Registrerte arbeidsledige;859
+;;Mottakere av arbeidsavklaringspenger / uføretrygd;1086
+;;Andre;5963
+;Mottakere av arbeidsavklaringspenger / uføretrygd;Registrerte arbeidsledige;526
+;;Mottakere av arbeidsavklaringspenger / uføretrygd;20086
+;;Andre;2206
+;Andre;Registrerte arbeidsledige;1898
+;;Mottakere av arbeidsavklaringspenger / uføretrygd;552
+;;Andre;24537
+;Ut av populasjonen;Registrerte arbeidsledige;108
+;;Mottakere av arbeidsavklaringspenger / uføretrygd;123
+;;Andre;4874
+;;;
+"<b>Foreløpige tall</b><br>
+Tallene for siste årgang er foreløpige. For å forbedre statistikkens aktualitet benyttes informasjon om selvstendig næringsdrivende fra 2021 i de foreløpige tallene, altså året før statistikkåret 2022. Dette betegnes som foreløpige tall og innebærer noe større usikkerhet i tallene. Statistikken oppdateres med endelige tall når opplysningene om selvstendig næringsdrivende fra statistikkåret er tilgjengelige. For mer informasjon, se delen «Hyppighet og aktualitet» under «Administrative opplysninger» i <a href=https://www.ssb.no/arbstatus#om-statistikken>«Om statistikken»</a>.
+<br><br>
+<b>Økning i antall med ukjent status i de foreløpige tallene for 2022</b><br>
+Det er en økning i antallet med ukjent status i de foreløpige tallene for 2022 sammenlignet med endelige tall for 2021. Nyankomne ukrainske flyktninger står bak en stor del av denne økningen. Disse var registrert som bosatt i Folkeregisteret per 30. november 2022, men finnes ikke igjen rundt samme tidspunkt i andre inkluderte registre over aktiviteter og ytelser, slik som arbeid, utdanning, introduksjonsordningen for nyankomne flyktninger eller sosialhjelp.
+<br><br>
+Dette kan skyldes at det tar noe tid fra personene blir bosatt etter avtale mellom Integrerings- og mangfoldsdirektoratet (IMDi) og kommunen til personene får vedtak om introduksjonsprogram. Kommunen har i henhold til integreringsloven plikt til å tilby introduksjonsprogram snarest mulig og senest innen 3 måneder etter bosetting. Når det gjelder fordrevne fra Ukraina med midlertidig kollektiv beskyttelse, har de kun en rett, ikke plikt, til å delta i introduksjonsprogrammet. Det kan gjøre at noen velger å ikke delta av ulike grunner. I tillegg kan noen være bosatt uten avtale med IMDi og kommunen, og har dermed heller ikke rett til introduksjonsprogrammet.";;;
+"<b>Mangler i informasjon om høyeste oppnådde utdanningsnivå i de foreløpige 2022-tallene</b><br>
+De foreløpige tallene for 2022 mangler informasjon om høyeste fullførte utdanningsnivå per 1. oktober 2022 for noen personer. De som hadde et registrert utdanningsnivå per 1. oktober 2021 har fått dette imputert. Det betyr at utdanning fullført mellom 1. oktober 2021 og 2022 ikke kommer med for disse personene. Etter imputeringen er det fortsatt en økning i antall med uoppgitt eller ingen fullført utdanning fra 2021 til de foreløpige tallene for 2022. Hele eller deler av denne økningen kan være en ikke-reell økning på grunn av manglene i utdanningsinformasjonen.";;;
+"<b>Prioritert arbeidsstyrkestatus</b><br>
+For personer som er registrert i flere aktiviteter/ytelser samtidig er status prioritert i følgende rekkefølge (ovenfra og nedover): sysselsatt, registrert ledig, deltaker på arbeidsmarkedstiltak, under ordinær utdanning, mottaker av arbeidsavklaringspenger, mottaker av uføretrygd, mottaker av AFP, mottaker av alderspensjon, annet (sosialhjelp, kontantstøtte, ukjent status). Denne prioriteringen betyr for eksempel at en person som både er under ordinær utdanning og mottar uføretrygd blir regnet som under ordinær utdanning i statistikken. For mer informasjon, se <a href=https://www.ssb.no/arbstatus#om-statistikken>«Om statistikken»</a>.
+<br><br>
+«Sysselsatte ellers» på nivå 3 omfatter sysselsatte som i tillegg mottar ytelser ikke nevnt i de øvrige gruppene av sysselsatte. Disse ytelsene inkluderer blant annet sykepenger, pensjoner fra andre enn NAV, dagpenger, kontantstøtte og sosialhjelp.
+<br><br>
+«Andre ordninger» på nivå 3 inkluderer blant annet mottakere av kontantstøtte, enslig forsørgerstønad og sosialhjelp.";;;
+Tabellen ble 29. august 2023 oppdatert med foreløpige tall for 2022. Se fotnotene nedenfor for mer informasjon.;;;
+;;;
+Sist endret:;;;
+Bosatte:;;;
+20230829 08:00;;;
+;;;
+Kilde:;;;
+Statistisk sentralbyrå;;;
+;;;
+Kontakt:;;;
+Bosatte:;;;
+Malin Pettersen, Statistisk sentralbyrå;;;
+ +47 409 02 563;;;
+inp@ssb.no;;;
+;;;
+Pål Nordby, Statistisk sentralbyrå;;;
+ +47 409 02 378;;;
+rby@ssb.no;;;
+;;;
+ Arbeidsmarked, Statistisk sentralbyrå;;;
+ +47 62 88 50 00;;;
+arbeidsmarked@ssb.no;;;
+;;;
+;;;
+;;;
+;;;
+Måleenhet:;;;
+Bosatte:;;;
+personer;;;
+Målemetode:;;;
+Bosatte:;;;
+Situasjon (tidspunkt);;;
+;;;
+Referansetid:;;;
+Bosatte;;;
+16.11.;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+Offisiell statistikk;;;
+;;;
+Database:;;;
+Ekstern PRODUKSJON;;;
+;;;
+Intern referansekode:;;;
+Bosatte;;;
