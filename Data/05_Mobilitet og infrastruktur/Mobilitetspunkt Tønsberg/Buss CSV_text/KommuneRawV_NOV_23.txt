@@ -1,0 +1,8 @@
+Kommunenavn	Period	År	Måned	Antall
+Totals	Totals	Totals	Totals	986 404
+Færder	2023/11	2023	11	105 437
+Holmestrand	2023/11	2023	11	77 423
+Horten	2023/11	2023	11	99 213
+Larvik	2023/11	2023	11	136 665
+Sandefjord	2023/11	2023	11	176 891
+Tønsberg	2023/11	2023	11	390 775

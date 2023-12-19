@@ -1,0 +1,7 @@
+Kategorigruppe	Year	Month	Antall
+Totals	Totals	Totals	999 783
+Diverse	2023	11	71 202
+Honnør	2023	11	100 857
+Skole	2023	11	254 537
+Ung/Barn	2023	11	295 728
+Voksen	2023	11	277 459
